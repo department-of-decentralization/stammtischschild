@@ -4,8 +4,10 @@ Fabrication files for the DOD Stammtisch sign.
 
 Inspired by the [c-base/stammtischschild](https://github.com/c-base/stammtischschild).
 Main differences:
+- use visicut over fengrave
 - no battery, just USB-C
 - no ESP, just colored LEDs
+- KISS
 
 Contents:
 - [visicut/](./visicut): laser engraving of the DOD wolpy
